@@ -1,0 +1,97 @@
+BODY : 
+#.....program started from here....
+#.....variable declared with type and assigning values...
+INTEGER a = 5 END
+INTEGER b = 10 END
+FLOAT c = 5.4556 END
+#.....arithmatic operation.....
+a PLUS b END
+b MINUS a END
+a MUL b END
+b DIV a END
+INTEGER b = 12 END
+b MOD a END
+2 POW 5 END
+#.....logical operation.......
+a AND b END
+a OR b END
+NOT a END
+NOT 0 END
+#.....some in built function called and show output in output file...
+SINE(30) END
+COSINE(60) END
+TANGENT(60) END
+LON(2) END
+LB10(2) END
+GCD(12,20) END
+LCM(12,60) END
+FACTORIAL(5) END
+## ......some kind od loops like for and while loops are
+   defined from here.............
+##
+FLOOP(2 : 18) INCR 2 {
+PRINT(a) END
+}
+FLOOP(1 : 18) DECR 2 {
+PRINT(a) END
+}
+WLOOP(1 LEQL 10){
+PRINT(a) END
+}
+## .......IF  ELSE IF  ELSE  all statements are defined
+   from here.......
+##
+#.....ONLY IF statement........
+JODI(5 GT 3){
+PRINT(b) END
+}END
+#.....IF and ELSE statement........
+JODI(5 LT 3){
+PRINT(b) END
+}
+NAHOLE{
+PRINT(b) END
+}
+#.....IF and ELSE IF and ELSE statement........
+JODI(5 LEQL 3){
+PRINT(b) END
+}
+OTHOBA(5 GEQL 3){
+PRINT(b) END
+}
+NAHOLE{
+PRINT(b) END
+}
+#.............SWITCH CASE operation...................
+CHNG(3){
+CASE 1 : 10 END
+CASE 2 : 11 END
+CASE 3 : 12 END
+DEFAULT : 13 END
+
+}
+CHNG(5){
+CASE 1 : 10 END
+CASE 2 : 11 END
+CASE 3 : 12 END
+DEFAULT : 13 END
+
+}
+#.....function call declaration with name.....
+FUNCTION A (10,5){
+10 PLUS 5 END
+}
+#.....function declaration like inbuilt function for finding max value.......
+FUNCTION (4,8) {
+PRINT END
+}
+MAX FUNCTION() END
+#.....function declaration like inbuilt function for finding min value.......
+FUNCTION (4,8) {
+PRINT END
+}
+MIN FUNCTION() END
+#.....program ended here.....
+ENDP
+
+

@@ -1,0 +1,49 @@
+Value of the a : 5
+Value of the b : 10
+Value of the c : 5.455600
+Addition of 5 and 10 = 15
+Subtraction of 10 and 5 = 5
+Multiplication of 5 and 10 = 50
+Division of 10 and 5 = 2
+Value of the b : 12
+MOD of of 12 and 5 = 2
+Power of 2 to the power 5 = 32
+LOGICAL AND of 5 , 12 = 1
+LOGICAL OR of 5 , 12 = 1
+LOGICAL NOT of 5 = 0
+LOGICAL NOT of 0 = 1
+The value of sin in 0.52 radians or in 30.00 degrees = 0.50
+0
+cos of 60 degree in 1.05 radian = 0.5030
+tan of 60 degree in 1.05 radian = 1.7360
+The Natural Logarithm ln of 2.000000 is 0.693147
+0
+The 10 Base Logarithm of 2.000000 is 0.301030
+0
+G.C.D of 12 and 20 is : 4
+The LCM of 12 and 60 is : 60
+FACTORIAL of 5 is : 120
+2 4 6 8 10 12 14 16 18 
+18 16 14 12 10 8 6 4 2 
+1 2 3 4 5 6 7 8 9 10 
+Greater than 5 > 3  TRUE
+Less Than 5 < 3 FALSE
+Less than eqal 5 > 3  Greater than equal 5 > 3  IN ELSE-IF CONDITION
+Case No : 1 & expression value :10 
+Case No : 2 & expression value :11 
+Case No : 3 & expression value :12 
+Default CASE & expression value : 13
+SWITCH CASE SELECTION: 3
+Finally Choose Case number :-> 3
+Case No : 1 & expression value :10 
+Case No : 2 & expression value :11 
+Case No : 3 & expression value :12 
+Default CASE & expression value : 13
+SWITCH CASE SELECTION: 5
+Finally Choose DEFAULT case 
+Addition of 10 and 5 = 15
+FUNCTION NAME :  A
+Function Parameter : 10 5
+Function internal statement : 15
+Maximum num between 4 and 8 : 8
+Minimum num between 4 and 8 : 4
